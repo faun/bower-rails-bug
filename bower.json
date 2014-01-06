@@ -1,0 +1,14 @@
+{
+  "name": "A Project",
+  "homepage": "https://github.com/faun/bower-rails-bug",
+  "description": "An applicaition",
+  "private": true,
+  "vendor": {
+    "name": "bower-rails generated vendor assets",
+    "dependencies": {
+      "angular": "angular#1.2.7",
+      "angular-mocks": "angular-mocks#1.2.7",
+      "angular-resource": "angular-resource#1.2.7"
+    }
+  }
+}
