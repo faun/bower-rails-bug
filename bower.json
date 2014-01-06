@@ -1,7 +1,7 @@
 {
   "name": "A Project",
   "homepage": "https://github.com/faun/bower-rails-bug",
-  "description": "An applicaition",
+  "description": "An application",
   "private": true,
   "vendor": {
     "name": "bower-rails generated vendor assets",
